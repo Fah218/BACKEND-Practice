@@ -15,4 +15,18 @@ Day 02: 2 March 2026
 -GET,POST,PUT,DELETE for set up after postman and test these req
 -response can be json,file etc
 -create a routes (item,js) >> to keep differnet routes and place the actual index.js clean to look 
--create custom route for birds.js and set up into index.js for clean struct
+-create custom route for birds.js and set up into index.js for clean struct.
+
+
+
+
+Day 03: 3 March 2026
+
+-Learn to middleware
+-inbuilt middleware
+-creation/loading/application
+-chaining and order to middleware
+-custom middleware for student and admin reach
+-Types and route based middleware
+
+
