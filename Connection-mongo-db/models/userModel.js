@@ -1,4 +1,4 @@
-const { Schema,model} = require("mongoose");
+const { Schema, model } = require("mongoose");
 
 const UserSchema = new Schema({
     name: {
@@ -6,9 +6,9 @@ const UserSchema = new Schema({
         required: true,
         maxlength: 50
     },
-    age:{
-        typr:Number,
-        required:true
+    age: {
+        type: Number,
+        required: true
     },
     createdAt: {
         type: Date,
