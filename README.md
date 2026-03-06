@@ -23,10 +23,6 @@ Day 02: 2 March 2026
 
 Day 03: 5 March 2026
 
-
-
-Day 03: 5 March 2026
-
 -Connect to MongoDB
 -Understand MongoDB compass for local database and atlas for cloud connection of database
 -understand mongoose as ODM (Object Data Modelling) library for connection btw server and database
@@ -35,5 +31,19 @@ Day 03: 5 March 2026
 -created users.js for routing to perform CRUD operation
 -Test CRUD operation on Postman 
 -All the Operation are ready with postman run and mongodb atlas for attach mogodb_uri
+
+
+
+Day 04: 7 March 2026
+
+-learn about MVC Pattern(Model,View,Controllers)
+-Model (for DB) & controller (business logic)
+-created productControllers.js & routes for productRoutes
+-All CRUD operation test on postman for controller to call route request
+-Hence,responce get towards frontend or Client 
+
+FINAL VIEW OF MVC PATTERN >> 
+
+Frontend-> request -> express app -> route req -> controller(logic , models etc) -> response send to frontend
 
    
